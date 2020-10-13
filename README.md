@@ -1,14 +1,14 @@
 # Container
 Pyhton Projects 
 PYHTON | BEGINNER PROJECTS
- PYHTON | BEGINNER PROJECTS FOR YOU
 
- PROJECT 1 : MAD LIB FOR YOU
+
+
  PROJECT 1 : MAD LIB 
  -------------------------
 
  print("MAD LIB GAME IS STARTING!")
- @@ -23,3 +23,105 @@
+
  print("Now that I am older,I make the entire batch of " + noun2 +" from scratch.\n All you have to do is mix " + noun3 + " and " +noun4+" in a bowl until fluffy and add "+noun1+".")
  print("Don't forget the " + noun3 +"!\n" + verb + " them on a " +noun2+" and bake them at "+number+" degrees.")
  print("After " + number +" minutes you will have a perfect " + noun4+"!")
