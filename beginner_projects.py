@@ -125,3 +125,9 @@ while again:
         continue
     else:
         break
+
+PROJECT 5 : HANGMAN
+-----------------------------
+import random
+from words import words
+import string
